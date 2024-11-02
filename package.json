@@ -1,0 +1,23 @@
+{
+  "name": "zeptomail-nestjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeVisionEvgen/zeptomail-nestjs.git"
+  },
+  "author": "codevisionevgen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeVisionEvgen/zeptomail-nestjs/issues"
+  },
+  "homepage": "https://github.com/CodeVisionEvgen/zeptomail-nestjs#readme",
+  "description": "",
+  "dependencies": {
+    "@nestjs/common": "^10.4.6",
+    "zeptomail": "^6.0.0"
+  }
+}
