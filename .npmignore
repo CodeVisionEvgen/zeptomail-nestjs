@@ -2,4 +2,3 @@ module-spec
 node_modules
 src
 .gitignore
-tsconfig.json
